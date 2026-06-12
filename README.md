@@ -25,6 +25,19 @@ os
 shutil
 
 datetime
+## How to Run
+
+Open the project in Python or Jupyter Notebook.
+
+Enter the folder path containing files.
+
+Run the script.
+
+Files will be sorted into extension-based folders automatically.
+
+## Sample Output
+
+>> Files sorted successfully!
 
 ## Advantages
 
