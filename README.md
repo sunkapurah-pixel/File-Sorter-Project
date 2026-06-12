@@ -37,7 +37,7 @@ Files will be sorted into extension-based folders automatically.
 
 ## Sample Output
 
->> Files sorted successfully!
+Files sorted successfully!
 
 ## Advantages
 
